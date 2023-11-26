@@ -1,4 +1,4 @@
-Here is y Power bi service link - https://app.powerbi.com/groups/me/reports/f2b8fb6b-076c-4f3f-a6f6-1d064578ff3d/ReportSection?experience=power-bi
+Here is my Power bi service link - https://app.powerbi.com/groups/me/reports/f2b8fb6b-076c-4f3f-a6f6-1d064578ff3d/ReportSection?experience=power-bi
 
 Bank Churn Analysis Requirement Document.
 
