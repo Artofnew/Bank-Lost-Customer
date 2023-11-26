@@ -39,7 +39,9 @@ Examples: Account Balance  id – 1,2,3,4,5,6
 3)	Create a Measure to calculate the Churn Rate by using Dax.
 
 Visuals That Are Using in Our Report
+
      Cards
+     
 1)	To showing a No of Customers.
 2)	Showing a Churn Rate.
 3)	Showing Lost Customers.
