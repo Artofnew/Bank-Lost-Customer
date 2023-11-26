@@ -40,14 +40,14 @@ Examples: Account Balance  id – 1,2,3,4,5,6
 
 Visuals That Are Using in Our Report
 
-     Cards
+         Cards
      
 1)	To showing a No of Customers.
 2)	Showing a Churn Rate.
 3)	Showing Lost Customers.
 4)	Create a Butten of Reset all Filter
 
-     Charts
+         Charts
   	
 1)	Make a Donut Chart to showing No of Customers by Gender wise.
 2)	Make Another Donut Chart to showing No of Customers by Activity Status wise.
